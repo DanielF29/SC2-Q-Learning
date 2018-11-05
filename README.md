@@ -11,3 +11,5 @@ En caso de querer referencias adicionales que puedan ayudar a desarrollar otro b
 https://github.com/skjb/pysc2-tutorial
 
 Aprovecho para hacer un agradecimiento especial a "Steven Brown" por sus tutoriales y explicaciones en los cuales me he basado para escribir el Bot aquí presentado.
+
+Nota: tomen en cuenta que actualmente el Bot presentado con su tabla no logra ganar muchos juegos todavia contra el Bot de SC2 en la dificultad very-easy, saludos a todos.
