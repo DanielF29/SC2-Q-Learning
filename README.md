@@ -6,7 +6,7 @@ Código en SCLE 2.0 con raza Zerg usando Q-learning en desarrollo
 Hasta ahora se cuenta con una simple guía de intalación para realizar las instalaciones pertinentes, archivo "Guía de instalación.pdf".
   Se mencionan las fuentes y citios de referencia consultadas para mayor referencia y consulta en caso de dudas o problemas en el proceso   de instalación.
 
-Igualmente, el codigo actual se encuentra comentado en español, se comparten los archivos donde se guarda la tabla-Q; los archivos .gz y .csv corresponden en la fecha al codigo .py (las tablas Q de un codigo no son compatibles con otro).
+Igualmente, el codigo actual se encuentra comentado en español, se comparten los archivos donde se guarda la tabla-Q; los archivos .gz y .csv corresponden al valor de la variable 'DATA_FILE' dentro de cada codigo .py (las tablas Q de un codigo no son compatibles con otro).
 
 En caso de querer referencias adicionales que puedan ayudar a desarrollar otro bot por tu cuenta recomiendo los tutoriales y repositorios de "Steven Brown", los cuales puedes encontar en:
 
